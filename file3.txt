@@ -1,3 +1,0 @@
-I am now adding to this file from my local repo.
-
-This is being created directly from my remote console.
